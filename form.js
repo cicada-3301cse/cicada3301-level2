@@ -1,4 +1,4 @@
-var pass = "1155350000";
+var pass = "3850286400";
 console.log("hello")
 
 function activate(){
@@ -6,7 +6,7 @@ function activate(){
     if (paswd == pass) {
         //alert("correct password");
         //window.location.replace('https://www.google.com')
-        window.location.href = "https://www.w3schools.com";
+        window.location.href = "https://cicada-3301cse.github.io/cicada3301-level3/";
     }
     else{
         alert("wrogn password");
